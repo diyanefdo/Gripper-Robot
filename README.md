@@ -3,3 +3,4 @@ Constructed a Gripper robot using aluminum building material and high torque ser
 The robot allows motion of the gripper arm in a circular arc motion allowing a motion range of 0-180 degrees in the flat horizontal plane. 
 This motion is supported by a roller wheel that endures the load of the arm.
 Additionally, the robot is also equipped with 2 motion axis' in the vertical plane allowing the robot to reach any point in the respective plane.
+After building the robot, it was programmed to pick up small items from the ground and precisely place them in a vertical rack (holder) 
